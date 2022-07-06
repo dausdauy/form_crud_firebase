@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298013695505",
+    "project_id": "flutter-crud1-d58b7",
+    "storage_bucket": "flutter-crud1-d58b7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298013695505:android:852449f8726ba3645f9bb0",
+        "android_client_info": {
+          "package_name": "com.example.beranda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298013695505-rgb6pp7gp5bn63e9v2um1fhiibsk8dev.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjcYH_0580bEh1TbZp1cO97PsGPkglPHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298013695505-rgb6pp7gp5bn63e9v2um1fhiibsk8dev.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
